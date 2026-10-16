@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Colors - Color Palettes Generator",
+  "description": "The super fast color palettes generator. Create, explore, extract, and export beautiful color palettes with NexVora Colors by NexVora Lab's Ofc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
